@@ -1,2 +1,2 @@
-# rake_demo
-rake usage demo
+# RAKE USAGE DEMO
+This repository has example for rake usage
